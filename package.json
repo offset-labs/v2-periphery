@@ -1,5 +1,5 @@
 {
-  "name": "@offsetcarbon/v2-perifphery",
+  "name": "@offsetcarbon/v2-periphery",
   "version": "1.1.0-beta.0",
   "description": "🎚 Peripheral smart contracts for interacting with OffsetCarbon V2",
   "engines": {
@@ -52,5 +52,5 @@
   "directories": {
     "test": "test"
   },
-  "author": ""
+  "author": "Offset Labs"
 }
